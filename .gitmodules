@@ -1,0 +1,3 @@
+[submodule "co-tracker"]
+	path = co-tracker
+	url = git@github.com:wgnera/co-tracker.git
